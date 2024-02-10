@@ -2,8 +2,6 @@ const CsharpIcon = () => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="2222"
-      height="2500"
       preserveAspectRatio="xMidYMid"
       viewBox="0 -1.43 255.58 290.11"
     >
